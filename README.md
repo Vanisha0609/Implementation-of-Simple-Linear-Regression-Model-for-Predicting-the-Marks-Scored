@@ -78,30 +78,39 @@ print("RMSE = ",rmse)
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 1. df.head()
+
 ![Screenshot 2023-09-11 181606](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/a4c0d11a-036b-43c6-aeb2-5fd4593e0fb2)
 
-2. df.tail()
+3. df.tail()
+   
 ![Screenshot 2023-09-11 181732](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/6147004d-de59-446e-8e80-35a8ad942475)
 
-3. Array value of X
+5. Array value of X
+   
 ![Screenshot 2023-09-11 181832](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/5f639995-8e0f-4ab7-a627-5b3831d86dd0)
 
-4. Array value of Y
+7. Array value of Y
+   
 ![Screenshot 2023-09-11 181910](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/6609818a-6e7c-4972-b5fe-fc2ff796871b)
 
-5. Values of Y prediction
+9. Values of Y prediction
+    
 ![Screenshot 2023-09-11 182012](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/c5ef8ec7-c6f0-488c-a38b-9fb79a036079)
 
-6. Array values of Y test
+11. Array values of Y test
+    
 ![Screenshot 2023-09-11 182144](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/fa2feba3-ed59-48ad-867e-09cd949a2de2)
 
-7. Training Set Graph
+13. Training Set Graph
+    
 ![tset](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/3fb136b9-7951-47af-89e0-71189af307cd)
 
-8. Test Set Graph
+15. Test Set Graph
+    
 ![Screenshot 2023-09-11 182306](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/d3092d86-1297-41da-bd58-84808785404e)
 
-9. Values of MSE, MAE and RMSE
+17. Values of MSE, MAE and RMSE
+    
 ![Screenshot 2023-09-11 182318](https://github.com/Vanisha0609/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104009/41f3f722-d0be-4613-8b3f-416bf7c81637)
 
 ## Result:
